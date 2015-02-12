@@ -1,4 +1,6 @@
 # TestPython
 Quelques petits exemples pour prendre en main Python
 
-#PythonQueDuBonheur
+##PythonQueDuBonheur
+
+Projet avec eclipse utilisant le plugin PyDev
